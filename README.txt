@@ -176,4 +176,4 @@ gcc -c $<
 用step也表示单步跟踪，如果有函数，它进入函数，执行完后再接着执行下一步；
 但你厌倦了一个for循环的跟踪，你可以用until来跳出整个循环体。
 你可以用 info breakpoints  查看断点信息。
-这是简单的c程序调试，具体gdb初级使用请参见网站：http://dsec.pku.edu.cn/~yuhj/wiki/gdb.html
+
