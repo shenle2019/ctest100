@@ -1,5 +1,3 @@
-# ctest100
-
 假如我们写了一个hello.c 文件 可用gcc  hello.c 来编译此文件，这样gcc会自动生成一个名字为a的可执行程序。如果你下次再编译一个新的文件，gcc hello1.c      
 gcc还会自动生成一个名字为a的可执行文件，并且会把原来的a覆盖。当然gcc有指定生成可执行文件名字的参数。
 我们可以用gcc -o hello hello.c来编译，编译后会生成一个hello的可执行文件。gcc -c hello.c 编译后会生成一个hello.o的中间文件。
