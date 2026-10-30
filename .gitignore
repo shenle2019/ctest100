@@ -7,3 +7,6 @@ a.out
 
 # 练习代码编译后的可执行文件（无扩展名）
 /practice/test0[0-9][0-9]
+
+# 本地验证脚本
+verify_batch.ps1
